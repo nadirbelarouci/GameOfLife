@@ -28,8 +28,5 @@ public class Cell {
 	}
 	public void setBorn(boolean born) {
 		this.born = born;
-	}
-	
-	
-
+	}	
 }
